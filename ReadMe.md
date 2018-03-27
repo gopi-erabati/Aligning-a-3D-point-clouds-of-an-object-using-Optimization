@@ -1,0 +1,1 @@
+The main objective of this project is to align three point clouds of a rock which is broken down into three pieces. This seems a direct solution problem but the overlap between three point clouds is just the edge of rocks. So, a optimization scheme is proposed to fit the three point clouds into single point cloud to represent the rock.
